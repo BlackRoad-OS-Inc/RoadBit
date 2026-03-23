@@ -1,3 +1,11 @@
+# RoadBit
+
+> Road Fleet: RoadBit — 1-bit LLM inference — Microsoft BitNet fork. PROPRIETARY BlackRoad OS integration.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # bitnet.cpp
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![version](https://img.shields.io/badge/version-1.0-blue)
